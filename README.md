@@ -22,3 +22,5 @@ g++ client.cpp -lpthread -o client
 ```
 
 5. For opening multiple client applications, repeat step 4.
+
+6. The link for the documentation is : https://striveforcode.atlassian.net/wiki/x/AgAD
